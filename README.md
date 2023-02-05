@@ -1,5 +1,2 @@
 # foxbat
 education provider
-
-
-
